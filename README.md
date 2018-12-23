@@ -1,24 +1,17 @@
-# README
+# Recipebox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This recipebox is created for training purpose
 
-Things you may want to cover:
+* Added recipe and display feature
+* Edit, delete and Image upload feature
+* Added bootstrap and jQuery
+* Added ingredient and directions module and integrated it
+* Added user authentication
 
-* Ruby version
+![Alt text](/app/assets/images/screens/home.png "Home page")
 
-* System dependencies
+![Alt text](/app/assets/images/screens/display.png "Details page")
 
-* Configuration
+![Alt text](/app/assets/images/screens/edit_page.png "Edit page")
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Alt text](/app/assets/images/screens/new.png "New recipe page")
